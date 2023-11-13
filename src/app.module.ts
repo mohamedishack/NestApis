@@ -11,8 +11,8 @@ import { MongooseModule } from "@nestjs/mongoose";
       driver: ApolloDriver,
       autoSchemaFile: true,
     }),
-    PrescriptionModule,
     UserModule,
+    PrescriptionModule
   ],
 })
 export class AppModule {}
