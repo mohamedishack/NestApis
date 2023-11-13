@@ -29,8 +29,6 @@ This GraphQL API provides functionalities for managing medical prescriptions and
    ```bash
    git clone https://github.com/mohamedishack/NestApis
 
-   cd healthcare-api
-
    npm install
 
    npm run start:dev
